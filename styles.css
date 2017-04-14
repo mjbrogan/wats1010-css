@@ -1,35 +1,39 @@
 
 /*mj stylesheet*/
 html {
-  background-color: lightblue;
-}
-body {
-  background-image: url ("images/sand.jpg");
+  background-image: url(images/hiking-the-sand-dunes.jpg)
 }
 aside.more-info img {
-    width: 400px;
-    height: auto;
+  width: 400px;
+  height: auto;
 }
 h1 {
-  font-size: 25px;
+  font-size: 400px;
 }
 .body {
     font-family: serif;
     h1, h2, h3; sans-serif;
 }
+.for {
+  line-height: 3.0;
+}
+ul {
+  list-style-type: none;
+}
 .poem {
   list-style-type: none;
   line-height: 1.5; 
 }
-.poem li {
-  font-size: 15px;
+.poem {
+  font-size: 18px;
 }
 #content {
-  background-color: pink;
-  width: 400px;
-  border: 50px: 
-  padding: 50px;
-  margin: 50px;
+  background-color: whitesmoke;
+  width: 450px;
+  border: 70px: 
+  padding: 60px;
+  margin: 60px;
 }
+
 
             
