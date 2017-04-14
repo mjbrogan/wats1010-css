@@ -1,6 +1,35 @@
-/* This is where styles are defined for your page. */
-/* One style is provided as example. */
 
-h1 {
-    color: green;
+/*mj stylesheet*/
+html {
+  background-color: lightblue;
 }
+body {
+  background-image: url ("images/sand.jpg");
+}
+aside.more-info img {
+    width: 400px;
+    height: auto;
+}
+h1 {
+  font-size: 25px;
+}
+.body {
+    font-family: serif;
+    h1, h2, h3; sans-serif;
+}
+.poem {
+  list-style-type: none;
+  line-height: 1.5; 
+}
+.poem li {
+  font-size: 15px;
+}
+#content {
+  background-color: pink;
+  width: 400px;
+  border: 50px: 
+  padding: 50px;
+  margin: 50px;
+}
+
+            
